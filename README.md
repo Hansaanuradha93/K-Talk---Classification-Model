@@ -69,25 +69,29 @@ Evaluation results are visualized using grouped bar plots and separate metric-wi
 
 ### 1. Clone the Repository
 
-````bash
+```bash
 git clone https://github.com/yourusername/leptospirosis-ml.git
 cd leptospirosis-ml
+```
 
 ### 2. Create a Virtual Environment
 
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # For Mac/Linux
+```
 
 ### 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 4. Install Dependencies
 
 ```bash
 jupyter notebook
+```
 
 ## 📌 Requirements
 
@@ -102,12 +106,12 @@ jupyter notebook
 
 You can install all required packages using:
 
-```bash
+````bash
 pip install -r requirements.txt
+````
 
 ## ✍️ Author
 
 **Hansa Wickramanayake**
 📧 [hansaanuradha93@gmail.com]
 🐙 [GitHub](https://github.com/Hansaanuradha93)
-````
