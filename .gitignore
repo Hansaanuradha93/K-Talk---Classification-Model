@@ -1,0 +1,85 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+.python-version
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Logs and system files
+*.log
+*.pot
+*.mo
+*.swp
+*.swo
+
+# Compiled files
+*.so
+*.dll
+*.dylib
+
+# Data and outputs
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.db
+*.sqlite3
+*.h5
+*.parquet
+
+# Jupyter Notebook output
+*.out
+*.pdf
+
+# IPython history
+.history
+
+# Testing
+.coverage
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# Pytest
+.pytest_cache/
+
+# Editable installs
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Security
+.env
+.env.*
+.secret
+secrets.*
+credentials.json
+token.json
